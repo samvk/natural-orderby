@@ -12,7 +12,7 @@ coverage/
 .DS_Store
 
 # generated files
-dist/
+# dist/
 
 # logs
 npm-debug.log*
